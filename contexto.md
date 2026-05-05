@@ -14,7 +14,7 @@ published: true
 
 # Contexto de Design
 
-Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
+Esta página foi tomada **grupo**.
 
 ## 1. Resumo / Abstract
 
