@@ -1,11 +1,11 @@
 ---
-title: "Contexto de Design"
+title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Contexto de Design"
-hero_subtitle: "Enquadramento do grupo"
+hero_image: attachments/render1.jpg
+hero_title: Contexto de Design
+hero_subtitle: Enquadramento do grupo
 hero_height: 60vh
 hero_overlay: 0.3
 hero_align: center
@@ -15,7 +15,11 @@ published: true
 # Contexto de Design
 
 Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
+![[render1.jpg]]
 
+![[render2.jpg]]
+
+![[render3.jpg]]
 ## 1. Resumo / Abstract
 
 > Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
