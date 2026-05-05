@@ -1,9 +1,9 @@
 ---
-title: "Nome do Grupo"
+title: "Pó Pó experimental"
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/render1.jpg
 hero_title: "Nome do Grupo"
 hero_subtitle: "Design de Produto IV · 2025-26"
 hero_height: 100vh
