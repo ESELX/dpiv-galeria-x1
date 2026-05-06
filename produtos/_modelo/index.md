@@ -13,7 +13,7 @@ published: true
 student_name: ""
 student_number: ""
 ---
-
+![](attachments/hero.jpg)
 # Nome do Produto
 
 <!--
