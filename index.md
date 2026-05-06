@@ -11,11 +11,11 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 course: "DesignDeProdutoIV"
-group_name: ""
+group_name: "Pó-Pós"
 group_number: ""
 members:
-  - number: ""
-    name: ""
+  - number: "20YYXXX"
+    name: "André Rocha"
   - number: ""
     name: ""
 ---
