@@ -4,7 +4,7 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Grupo dos Pós Pós
+hero_title: Grupo dos Pó-Pós
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
