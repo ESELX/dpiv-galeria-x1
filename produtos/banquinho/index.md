@@ -14,7 +14,9 @@ student_name: ""
 student_number: ""
 ---
 
-![](produtos/banquinho/attachments/hero.jpg)# Nome do Produto
+![](attachments/hero.jpg)
+
+# Nome do Produto
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -31,7 +33,7 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 Ideia central do produto. O que é, para quem, porquê.
 
-![](produtos/banquinho/attachments/placeholder.png)
+![](attachments/placeholder.png)
 
 ## Enquadramento
 
@@ -52,13 +54,13 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 Imagens-chave que sintetizam o produto final.
 
-![](produtos/banquinho/attachments/placeholder.png)
-![](produtos/banquinho/attachments/placeholder.png)
+![](attachments/placeholder.png)
+![](attachments/placeholder.png)
 
 ---
 
 ## Processo
 
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](produtos/banquinho/processo.md), organizado do **mais recente** para o **mais antigo**.
+O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.
 
-[Ver processo completo →](produtos/banquinho/processo.md)
+[Ver processo completo →](processo.md)

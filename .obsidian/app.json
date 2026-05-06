@@ -1,6 +1,8 @@
 {
-  "attachmentFolderPath": "./Attachments",
+  "attachmentFolderPath": "./attachments",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "relative",
+  "promptDelete": false
 }
