@@ -51,10 +51,15 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+  <a class="gallery-card" href="produtos/carrinho/">
+    <img src="produtos/carrinho/attachments/hero.jpg" alt="" />
+    <h3>Pó-Pó</h3>
+    <p>André Rocha</p>
+  </a>
+  <a class="gallery-card" href="produtos/banquinho/">
+    <img src="produtos/banquinho/attachments/hero.jpg" alt="" />
+    <h3>Sentadinho</h3>
+    <p>André Rocha</p>
   </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo -->

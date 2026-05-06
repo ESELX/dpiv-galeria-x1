@@ -34,7 +34,7 @@ Esta página foi tomada **grupo**.
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![Objeto 1](attachments/placeholder.png)
+![Objeto 1](produtos/banquinho/attachments/placeholder.png)
 
 - **Objeto 1** — origem / autoria / razão da escolha
 - **Objeto 2** — ...
@@ -43,4 +43,4 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](attachments/placeholder.png)
+![Moodboard](produtos/banquinho/attachments/placeholder.png)

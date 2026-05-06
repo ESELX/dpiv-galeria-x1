@@ -20,14 +20,14 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![Protótipo final](produtos/banquinho/attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ## 2. Processo de Prototipagem
 
 Maquinação CNC, montagem, lixagem, acabamentos. Mostra o trabalho em curso, não só o resultado.
 
-![](attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ## 3. Modelos 3D do Molde
 
@@ -36,13 +36,13 @@ Embed do Fusion + printscreens, se pertinente.
 <!-- Cola aqui um link a360.co (converte-se automaticamente em visualizador)
      ou usa ![](modelo.glb) para um visualizador 3D embebido. -->
 
-![](attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ## 4. Protótipos Exploratórios
 
 Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
-![](attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ## 5. Modelos 3D
 
@@ -54,25 +54,25 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
-![](attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ## 7. Esboços e Pranchas-Resumo
 
 Desenhos manuais, pranchas A3 de síntese, exploração de variantes.
 
-![](attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ## 8. Pesquisa
 
 ### 8.1. Moodboards
 
-![](attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ### 8.2. Pesquisa de Objetos Similares
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![](produtos/banquinho/attachments/placeholder.png)
 
 ## 9. Outros Elementos
 
