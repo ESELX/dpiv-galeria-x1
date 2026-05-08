@@ -22,7 +22,7 @@ members:
 
 # Grupo dos Pó-Pós!
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Aqui vou apresentar o meu produto muito lindo!
 
 ## Elementos do Grupo
 
